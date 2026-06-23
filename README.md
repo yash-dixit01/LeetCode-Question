@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/yash-dixit01/leetcode/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/yash-dixit01/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/yash-dixit01/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
