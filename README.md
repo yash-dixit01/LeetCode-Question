@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/yash-dixit01/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/yash-dixit01/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yash-dixit01/leetcode/tree/master/0268-missing-number) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/yash-dixit01/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/yash-dixit01/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/yash-dixit01/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
