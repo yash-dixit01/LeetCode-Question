@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yash-dixit01/leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/yash-dixit01/leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/yash-dixit01/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yash-dixit01/leetcode/tree/master/0268-missing-number) |
 ## Recursion
