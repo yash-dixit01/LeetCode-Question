@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yash-dixit01/leetcode/tree/master/0015-3sum) |
+| [0066-plus-one](https://github.com/yash-dixit01/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/yash-dixit01/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yash-dixit01/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/yash-dixit01/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/yash-dixit01/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/yash-dixit01/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/yash-dixit01/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yash-dixit01/leetcode/tree/master/0268-missing-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/yash-dixit01/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
