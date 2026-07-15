@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/yash-dixit01/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/yash-dixit01/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/yash-dixit01/leetcode/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/yash-dixit01/leetcode/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/yash-dixit01/leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/yash-dixit01/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yash-dixit01/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/yash-dixit01/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/yash-dixit01/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
