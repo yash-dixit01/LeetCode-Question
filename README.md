@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yash-dixit01/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/yash-dixit01/leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/yash-dixit01/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/yash-dixit01/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/yash-dixit01/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yash-dixit01/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yash-dixit01/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/yash-dixit01/leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/yash-dixit01/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/yash-dixit01/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/yash-dixit01/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/yash-dixit01/leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/yash-dixit01/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yash-dixit01/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/yash-dixit01/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/yash-dixit01/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/yash-dixit01/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
