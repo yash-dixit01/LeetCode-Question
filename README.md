@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yash-dixit01/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/yash-dixit01/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yash-dixit01/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/yash-dixit01/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yash-dixit01/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yash-dixit01/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash-dixit01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/yash-dixit01/leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/yash-dixit01/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yash-dixit01/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/yash-dixit01/leetcode/tree/master/1095-find-in-mountain-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yash-dixit01/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yash-dixit01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/yash-dixit01/leetcode/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/yash-dixit01/leetcode/tree/master/1095-find-in-mountain-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
