@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yash-dixit01/leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/yash-dixit01/leetcode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/yash-dixit01/leetcode/tree/master/0567-permutation-in-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/yash-dixit01/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yash-dixit01/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
@@ -144,12 +145,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/yash-dixit01/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yash-dixit01/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yash-dixit01/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/yash-dixit01/leetcode/tree/master/0567-permutation-in-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/yash-dixit01/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yash-dixit01/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Breadth-First Search
 |  |
