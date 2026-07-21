@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/yash-dixit01/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/yash-dixit01/leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/yash-dixit01/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yash-dixit01/leetcode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yash-dixit01/leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/yash-dixit01/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yash-dixit01/leetcode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/yash-dixit01/leetcode/tree/master/0567-permutation-in-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yash-dixit01/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/yash-dixit01/leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/yash-dixit01/leetcode/tree/master/0567-permutation-in-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yash-dixit01/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yash-dixit01/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
