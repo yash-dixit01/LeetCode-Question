@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/yash-dixit01/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0242-valid-anagram](https://github.com/yash-dixit01/leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/yash-dixit01/leetcode/tree/master/0567-permutation-in-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yash-dixit01/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
