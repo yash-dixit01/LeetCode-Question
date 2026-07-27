@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yash-dixit01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yash-dixit01/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yash-dixit01/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0542-01-matrix](https://github.com/yash-dixit01/leetcode/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/yash-dixit01/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yash-dixit01/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/yash-dixit01/leetcode/tree/master/1095-find-in-mountain-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yash-dixit01/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0542-01-matrix](https://github.com/yash-dixit01/leetcode/tree/master/0542-01-matrix) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/yash-dixit01/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/yash-dixit01/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/yash-dixit01/leetcode/tree/master/0542-01-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/yash-dixit01/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yash-dixit01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/yash-dixit01/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yash-dixit01/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/yash-dixit01/leetcode/tree/master/0542-01-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yash-dixit01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Depth-First Search
 |  |
