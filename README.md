@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash-dixit01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yash-dixit01/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/yash-dixit01/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3731-find-missing-elements](https://github.com/yash-dixit01/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yash-dixit01/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yash-dixit01/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/yash-dixit01/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yash-dixit01/leetcode/tree/master/0268-missing-number) |
+| [3731-find-missing-elements](https://github.com/yash-dixit01/leetcode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yash-dixit01/leetcode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/yash-dixit01/leetcode/tree/master/0567-permutation-in-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yash-dixit01/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3731-find-missing-elements](https://github.com/yash-dixit01/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yash-dixit01/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
