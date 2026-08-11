@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash-dixit01/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/yash-dixit01/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yash-dixit01/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/yash-dixit01/leetcode/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yash-dixit01/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yash-dixit01/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/yash-dixit01/leetcode/tree/master/0162-find-peak-element) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yash-dixit01/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/yash-dixit01/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yash-dixit01/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/yash-dixit01/leetcode/tree/master/0120-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/yash-dixit01/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0542-01-matrix](https://github.com/yash-dixit01/leetcode/tree/master/0542-01-matrix) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/yash-dixit01/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
