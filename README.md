@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/yash-dixit01/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/yash-dixit01/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yash-dixit01/leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/yash-dixit01/leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/yash-dixit01/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yash-dixit01/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/yash-dixit01/leetcode/tree/master/0189-rotate-array) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/yash-dixit01/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/yash-dixit01/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/yash-dixit01/leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/yash-dixit01/leetcode/tree/master/0043-multiply-strings) |
 | [0242-valid-anagram](https://github.com/yash-dixit01/leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/yash-dixit01/leetcode/tree/master/0567-permutation-in-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yash-dixit01/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/yash-dixit01/leetcode/tree/master/0043-multiply-strings) |
 | [0867-transpose-matrix](https://github.com/yash-dixit01/leetcode/tree/master/0867-transpose-matrix) |
 | [2460-apply-operations-to-an-array](https://github.com/yash-dixit01/leetcode/tree/master/2460-apply-operations-to-an-array) |
 ## Enumeration
