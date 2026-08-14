@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yash-dixit01/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/yash-dixit01/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/yash-dixit01/leetcode/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/yash-dixit01/leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/yash-dixit01/leetcode/tree/master/0441-arranging-coins) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash-dixit01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yash-dixit01/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/yash-dixit01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yash-dixit01/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yash-dixit01/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0400-nth-digit](https://github.com/yash-dixit01/leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/yash-dixit01/leetcode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/yash-dixit01/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/yash-dixit01/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
