@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/yash-dixit01/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/yash-dixit01/leetcode/tree/master/0867-transpose-matrix) |
 | [1095-find-in-mountain-array](https://github.com/yash-dixit01/leetcode/tree/master/1095-find-in-mountain-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/yash-dixit01/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yash-dixit01/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/yash-dixit01/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yash-dixit01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yash-dixit01/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yash-dixit01/leetcode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/yash-dixit01/leetcode/tree/master/0567-permutation-in-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/yash-dixit01/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yash-dixit01/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3731-find-missing-elements](https://github.com/yash-dixit01/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yash-dixit01/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/yash-dixit01/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yash-dixit01/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/yash-dixit01/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/yash-dixit01/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
