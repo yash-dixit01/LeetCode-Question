@@ -11,5 +11,6 @@ class Solution {
       for(int i=j;i<n;i++){
         num[i]=0;
       }
+      
     }
 }
